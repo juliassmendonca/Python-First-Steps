@@ -9,3 +9,6 @@ if nota >= media:
     
 else: 
     print("reprovado")
+    
+    
+    

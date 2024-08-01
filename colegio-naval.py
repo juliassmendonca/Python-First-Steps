@@ -8,5 +8,7 @@ elif nota >= media_baixa:
    print("Fará prova final")
 else: 
    print("fará recuperação final")
+   
+   
     
   
